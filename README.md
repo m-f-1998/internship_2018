@@ -1,4 +1,4 @@
-# Trench Selector
+# Internship 2018
 
 With the introduction of a new Trench-Heating line at Turnbull & Scott Engineers, I was tasked with creating a WordPress powered tool which would allow customers to efficiently browse available variations based upon their filters. Additionally, customers could customise their selected products; add accessories; and download a PDF document detailing their choices with an estimated price. 
 
